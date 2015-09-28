@@ -24,3 +24,9 @@ Elliot Chang
 
 8/30/2015
 Elliot Chang
+
+
+“MeOH Effect on d18O & dD.csv”/ “meoh_impact”: MeOH impact (0 - 0.5% by volume) on isotope values. Data includes MCM-on and off results.
+
+9/24/2015
+Elliot Chang
