@@ -1,0 +1,14 @@
+#C extension
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+eggs/
+.eggs/
+lib/
+lib64/
+var/
+*.egg-info/
+*.egg
